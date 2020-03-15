@@ -1,0 +1,16 @@
+{
+  "name": "benion-animated-counter",
+  "version": "1.0.0",
+  "description": "Benion Animated Counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://benion28.github.io/benion-animated-counter",
+  "author": "Bernard Iorver",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
